@@ -1,0 +1,57 @@
+{
+  "students": [
+    {
+      "name": "Jane Smith",
+      "age": "18",
+      "place": "Los Angeles",
+      "id": "515c"
+    },
+    {
+      "name": "Michael Johnson",
+      "age": 16,
+      "place": "Chicago",
+      "id": "b9d9"
+    },
+    {
+      "name": "Emily Brown",
+      "age": 18,
+      "place": "Houston",
+      "class": "12th",
+      "id": "2560"
+    },
+    {
+      "name": "David Lee",
+      "age": 17,
+      "place": "San Francisco",
+      "class": "11th",
+      "id": "90d5"
+    },
+    {
+      "name": "Sophia Garcia",
+      "age": 16,
+      "place": "Miami",
+      "class": "10th",
+      "id": "2bb2"
+    },
+    {
+      "name": "Daniel Martinez",
+      "age": 18,
+      "place": "Dallas",
+      "class": "12th",
+      "id": "d879"
+    },
+    {
+      "name": "Olivia Hernandez",
+      "age": 17,
+      "place": "Phoenix",
+      "class": "11th",
+      "id": "9d1c"
+    },
+    {
+      "name": "Ethan Gonzalez",
+      "age": "1",
+      "place": "Philadelphia",
+      "id": "eb78"
+    }
+  ]
+}
